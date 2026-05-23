@@ -1,0 +1,60 @@
+- 유니
+https://startrail.stellive.me/api/protected-artwork/wallpapers/yuni-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/yuni-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/yuni-3.jpg
+- 히나
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hina-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hina-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hina-3.jpg
+- 마시로
+https://startrail.stellive.me/api/protected-artwork/wallpapers/mashiro-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/mashiro-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/mashiro-3.jpg
+- 리제
+https://startrail.stellive.me/api/protected-artwork/wallpapers/lize-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/lize-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/lize-3.jpg
+- 타비
+https://startrail.stellive.me/api/protected-artwork/wallpapers/tabi-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/tabi-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/tabi-3.jpg
+- 시부키
+https://startrail.stellive.me/api/protected-artwork/wallpapers/shibuki-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/shibuki-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/shibuki-2.jpg
+- 린
+https://startrail.stellive.me/api/protected-artwork/wallpapers/rin-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/rin-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/rin-3.jpg
+- 나나
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hana-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hana-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/hana-3.jpg
+- 리코
+https://startrail.stellive.me/api/protected-artwork/wallpapers/riko-1.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/riko-2.jpg
+https://startrail.stellive.me/api/protected-artwork/wallpapers/riko-3.jpg
+- 멤버 별 artworks 이미지
+https://startrail.stellive.me/api/protected-artwork/artworks/all-yuni.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-hina.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-mashiro.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-lize.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-tabi.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-shibuki.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-rin.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-hana.jpg
+https://startrail.stellive.me/api/protected-artwork/artworks/all-riko.jpg
+- 궤도 이미지
+https://startrail.stellive.me/main-star-bg.svg
+- 배경음악
+https://startrail.stellive.me/audio/bgm.mp3
+- 별 이미지
+https://startrail.stellive.me/star1-complete.svg
+https://startrail.stellive.me/star2-complete.svg
+https://startrail.stellive.me/star3-complete.svg
+https://startrail.stellive.me/star4-complete.svg
+https://startrail.stellive.me/star5-complete.svg
+https://startrail.stellive.me/star6-complete.svg
+https://startrail.stellive.me/star7-complete.svg
+https://startrail.stellive.me/star8-complete.svg
+https://startrail.stellive.me/star9-complete.svg
